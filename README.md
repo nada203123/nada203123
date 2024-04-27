@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nada Ghribi</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
-
+💫 About Me:
+As a Full-Stack web and mobile developer. I am a committed problem solver, a team player and an effective communicator. With a keen eye for detail and a passion towards my work.
 <h3 align="left">🌐Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/nada-ghribi-6519ab271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nada-ghribi-6519ab271" height="30" width="40" /></a>
